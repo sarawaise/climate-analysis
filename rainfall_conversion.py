@@ -9,4 +9,4 @@ def inches_to_mm(inches):
     mm = inches*25.4
     return mm
 
-#TODO(Dev-b): Add function to convert from inches to cm
+#TODO: Go home. It's over.
